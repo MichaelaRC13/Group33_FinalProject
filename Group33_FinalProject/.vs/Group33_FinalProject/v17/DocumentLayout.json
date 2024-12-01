@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|solutionrelative:tokenizing.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\manipulating.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|solutionrelative:manipulating.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\converting.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|solutionrelative:converting.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\manipulating.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|solutionrelative:manipulating.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\fundamentals.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|solutionrelative:fundamentals.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\converting.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|solutionrelative:converting.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCEF09F7-F0F0-49F0-8275-9700523671FD}|Group33_FinalProject.vcxproj|C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\tokenizing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -46,47 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "tokenizing.c",
-              "DocumentMoniker": "C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\tokenizing.c",
-              "RelativeDocumentMoniker": "tokenizing.c",
-              "ToolTip": "C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\tokenizing.c",
-              "RelativeToolTip": "tokenizing.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-30T22:39:20.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "manipulating.c",
-              "DocumentMoniker": "C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\manipulating.c",
-              "RelativeDocumentMoniker": "manipulating.c",
-              "ToolTip": "C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\manipulating.c",
-              "RelativeToolTip": "manipulating.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-30T22:39:19.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\main.c",
-              "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\main.c",
-              "RelativeToolTip": "main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-30T22:39:18.726Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -95,23 +56,58 @@
               "RelativeDocumentMoniker": "fundamentals.c",
               "ToolTip": "C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\fundamentals.c",
               "RelativeToolTip": "fundamentals.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-30T22:39:17.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T22:39:17.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "manipulating.c",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\manipulating.c",
+              "RelativeDocumentMoniker": "manipulating.c",
+              "ToolTip": "C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\manipulating.c",
+              "RelativeToolTip": "manipulating.c",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-30T22:39:19.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "converting.c",
               "DocumentMoniker": "C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\converting.c",
               "RelativeDocumentMoniker": "converting.c",
               "ToolTip": "C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\converting.c",
               "RelativeToolTip": "converting.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-30T22:39:16.962Z",
+              "WhenOpened": "2024-11-30T22:39:16.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tokenizing.c",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\tokenizing.c",
+              "RelativeDocumentMoniker": "tokenizing.c",
+              "ToolTip": "C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\tokenizing.c",
+              "RelativeToolTip": "tokenizing.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-30T22:39:20.228Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\micha\\Documents\\CPR101-NCC\\Group33_FinalProject\\Group33_FinalProject\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-30T22:39:18.726Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "tokenizing.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-30T22:39:08.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T22:39:08.359Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "manipulating.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-30T22:39:07.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T22:39:07.465Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "fundamentals.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-30T22:39:05.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T22:39:05.397Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "converting.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-30T22:39:04.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T22:39:04.38Z"
             }
           ]
         }
